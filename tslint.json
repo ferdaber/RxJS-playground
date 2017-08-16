@@ -6,7 +6,8 @@
         "quotemark": ["single"],
         "no-console": [false],
         "arrow-parens": false,
-        "trailing-comma": [false]
+        "trailing-comma": [false],
+        "no-unused-expression": ["allow-fast-null-checks"]
     },
     "rulesDirectory": []
 }
